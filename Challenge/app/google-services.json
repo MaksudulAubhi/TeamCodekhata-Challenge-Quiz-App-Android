@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651959972181",
+    "firebase_url": "https://challenge-42303.firebaseio.com",
+    "project_id": "challenge-42303",
+    "storage_bucket": "challenge-42303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651959972181:android:b85a8124eaa294e1",
+        "android_client_info": {
+          "package_name": "com.example.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651959972181-6og7ee7bhhq8rgnsvsk2anpk6g3bobmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpblCSBsU-D72dXokKVwbWGt7nqCO3MB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651959972181-6og7ee7bhhq8rgnsvsk2anpk6g3bobmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

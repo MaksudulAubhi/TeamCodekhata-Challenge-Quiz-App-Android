@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:padding="5dp"
+                android:text="Team Name: CODEKHATA"
+                android:textSize="18dp" />
+
+
+            <TextView
+
+                android:id="@+id/textAbout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:padding="5dp"
+                android:text="Team Members:\n\n\n# Md. Nazim Uddin\n\n# Piyal Mallick\n\n# Afsari Sultana Rubaba\n\n# Sayeda Sharmin Sultana Suchi\n\n# Maksudul Hoque Aubhi\n\n\n 5th Semester\n Department of CSE\n BGC Trust University Bangladesh\n (January-June 2019)"
+                android:textSize="15dp"
+
+
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

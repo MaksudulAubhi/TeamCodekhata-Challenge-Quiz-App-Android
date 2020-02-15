@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">Challenge</string>
+    <string name="App_title">Challenge</string>
+    <string name="App_subtitle">Test yourself in your favourite courses</string>
+    <string name="Login_email_hint">Enter your email</string>
+    <string name="Login_pass_hint">Enter your password</string>
+    <string name="login_button">login</string>
+    <string name="forget_password_login">Forget Password?</string>
+    <string name="login_here_welcome">Login here</string>
+    <string name="signup_here_welcome">SignUp here</string>
+    <string name="signup_button">SignUp</string>
+    <string name="signUp_Req_Login">Not have an account? SignUp here.</string>
+    <string name="signIn_Req_signUp">Already have an account? SignIn here.</string>
+    <string name="register_userName_hint">Enter your username</string>
+    <string name="send_email_reset_pass">send</string>
+    <string name="register_conf_pass_hint">Confirm your password</string>
+    <string name="profile_title_textView">Profile</string>
+    <string name="edit_Profile_Title">Edit your profile</string>
+    <string name="Edit_profile_image_choose">Choose Image</string>
+    <string name="Name_EditText_EditPro">Enter your fullname</string>
+    <string name="userName_EditText_EditPro">Enter your username</string>
+    <string name="InstitName_EditText_EditPro">Enter your institution name</string>
+    <string name="Edit_profile_save_button">save</string>
+    <string name="change_password_EditProfile_textView">Change Password</string>
+    <string name="change_email_EditProfile_TextView">Change Email</string>
+    <string name="Edit_pro_Del_image_req">Delete profile photo</string>
+    <string name="enter_your_new_email">Enter your new email</string>
+
+
+    <array name="gender">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+    <string name="title_activity_courses">Courses</string>
+    <string name="profile_logo_text_courses">Profile</string>
+    <string name="about_text_courses">About</string>
+    <string name="rank_Text_courses">Rank</string>
+    <string name="settings_text_courses">Settings</string>
+    <string name="logout_text_courses">Logout</string>
+
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="name_profile">Name:</string>
+    <string name="username_profile">Username:</string>
+    <string name="gender_profile">Gender:</string>
+    <string name="institution_profile">Institution:</string>
+    <string name="edit_your_profile_req">Edit your profile</string>
+    <string name="rank_profile">Rank:</string>
+    <string name="score_profile">Score:</string>
+    <string name="delete_your_account_profile">Delete your account</string>
+    <string name="time_quiz_activity">Time: </string>
+    <string name="score_quiz_activity">Score:</string>
+    <string name="score_count_quiz_activity">00</string>
+    <string name="time_count_quiz_activity">00:00</string>
+    <string name="next_btn_quiz_activity">Next</string>
+    <string name="blog_text_course">Blog</string>
+
+
+</resources>
