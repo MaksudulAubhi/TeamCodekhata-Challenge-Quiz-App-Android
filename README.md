@@ -11,3 +11,6 @@
 
 # Tools:
  Android(Java), Firebase
+
+# App Screenshot Drive Link:
+https://drive.google.com/drive/folders/144LHVFo09PCInVk0vL51smue-Qo3OH8D?usp=sharing
